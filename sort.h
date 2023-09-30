@@ -28,6 +28,6 @@ void selection_sort(int *array, size_t size);
 
 void quick_sort(int *array, size_t size);
 
-
+void shell_sort(int *array, size_t size);
 
 #endif
